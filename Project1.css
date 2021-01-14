@@ -1,0 +1,159 @@
+.body-color {
+  background-color: #1f271b;
+}
+.button-font {
+  font-size: 16px;
+}
+#about-me {
+}
+#portfolio {
+}
+#contact {
+}
+div.box-title {
+  width: auto;
+  padding-bottom: 50px;
+  margin: 0;
+  height: auto;
+  background-color: #1f271b;
+}
+div.box-header {
+  width: auto;
+  padding-bottom: 10px;
+  margin: 0;
+  height: auto;
+  background-color: #ffd23f;
+}
+div.first-color {
+  background-color: #ffd23f;
+}
+/*.space{
+  margin-right:20px;
+  margin-left:20px;
+}*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#header-one {
+  color: #f3fcf0;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+.block-color {
+  background-color: #540d6e;
+}
+.body-text {
+  font-size: 20px;
+  color: #FFFF;
+}
+img.solid-border {
+  border-style: double;
+  border-width: 20px;
+  border-color: #540d6e;
+}
+img.profile {
+  float: right;
+  max-width: 25%;
+  height: auto;
+}
+.line-break {
+  line-height: 40px;
+}
+#skills {
+  font-size: 20px;
+  text-decoration: underline;
+}
+.underline {
+  text-decoration: underline;
+}
+div.portfolio-middle {
+  height: auto;
+  overflow: auto;
+}
+img.resize {
+  height: auto;
+  width: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+h1.portfolio {
+  color: #f3fcf0;
+}
+div.box-portfolio {
+  width: auto;
+  padding-bottom: 10px;
+  margin: 0;
+  height: auto;
+  background-color: #ee4266;
+}
+h1.contact {
+  color: #f3fcf0;
+}
+div.box-contact {
+  width: auto;
+  padding-bottom: 10px;
+  margin: 0;
+  height: auto;
+  background-color: #f3fcf0;
+}
+.contact-text {
+  text-align: center;
+  color: #1f271b;
+  font-size: 20px;
+}
+div.box-bottom {
+  width: auto;
+  padding: 20px;
+  padding-bottom: 20px;
+  border: 10px #9fc490;
+  margin: 10;
+  height: auto;
+  background-color: #540d6e;
+}
+.title-color {
+  background-color: #1f271b;
+}
+input.fill {
+  color: #1f271b;
+  font-size: 20px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+}
+a.fa-facebook:hover {
+  opacity: 0.7;
+  color: #3b5998;
+}
+a.fa-twitter:hover {
+  opacity: 0.7;
+  color: #1dcaff;
+}
+a.fa-instagram:hover {
+  opacity: 0.7;
+  color: #c97b84;
+}
+a.fa-linkedin:hover {
+  opacity: 0.7;
+  color: #0077b5;
+}
+
+.fa-facebook {
+  color: white;
+}
+.fa-twitter {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
+.fa-instagram {
+  color: white;
+}
